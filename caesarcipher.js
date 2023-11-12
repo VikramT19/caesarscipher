@@ -5,4 +5,4 @@ function rot13(str) {
         return decodedChar;
     });
 }
-rot13("SERR PBQR PNZC");
+
